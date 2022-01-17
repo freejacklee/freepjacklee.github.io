@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: yujunhao5800@gmail.com
 description: "蟒营®15py101camp结业作品"
 keyword: "蟒营, Pythonic, 蟒营®15py101camp的博客, 2022, 结业作品, vicotor, sliveryS1, Thaler_lin, freejacklee"
-url: "http://freepython.github.io"          # your host, for absolute URL
+url: "http://freejacklee.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
