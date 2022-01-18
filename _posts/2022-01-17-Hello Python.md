@@ -1,10 +1,6 @@
 Hello Python~
 
 
-
-
-
-
 <script src="https://utteranc.es/client.js"
         repo="freejacklee/freejacklee.github.io"
         issue-term="pathname"
