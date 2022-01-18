@@ -1,0 +1,11 @@
+Hello Python~
+
+
+<script src="https://utteranc.es/client.js"
+        repo="freejacklee/freejacklee.github.io"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
