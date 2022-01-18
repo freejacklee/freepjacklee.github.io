@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 0df23f91dcf15e9d2b64                            #生成的clientID
-  clientSecret: 8d5229cc5889a8882a85543e5ddc4f5c393a5fcd    #生成的clientSecret
+  clientID: 559f8bdbaa010487a055                            #生成的clientID
+  clientSecret: ab8d5eb1529b9f6fa12be8b15b8ebb70955c7ee8    #生成的clientSecret
   repo: freejacklee.github.io    #仓库名称
   owner: freejacklee    #github用户名
   admin: freejacklee
