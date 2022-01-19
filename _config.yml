@@ -58,7 +58,7 @@ kramdown:
 # 评论系统
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC81NTI1MS8zMTcxOA==
+#livere_uid: MTAyMC81NTI1MS8zMTcxOA==
 
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
