@@ -56,12 +56,16 @@ kramdown:
 
 
 # 评论系统
+# Support for LiveRe comments system.
+# You can get your uid from https://livere.com/insight/myCode (General web site)
+#livere_uid: MTAyMC81NTI1MS8zMTcxOA==
+
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
-  enable:     #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
@@ -97,20 +101,20 @@ service-worker: true
 
 
 
-# Friends
-#friends: [
+ Friends
+friends: [
     {
-        #title: "WY",
-        #href: "http://zhengwuyang.com"
+        title: "阳志平的网志",
+        href: "https://www.yangzhiping.com/"
     },{
-        #title: "简书·BY",
-        #href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·BY",
+        href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
-        #title: "Apple",
-        #href: "https://apple.com"
+        title: "Apple",
+        href: "https://apple.com"
     },{
-        #title: "Apple Developer",
-        #href: "https://developer.apple.com/"
+        title: "Apple Developer",
+        href: "https://developer.apple.com/"
     }
 ]
 
