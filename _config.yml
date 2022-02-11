@@ -14,7 +14,7 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/logogithub1 .png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+timezone: Asia/Shanghai
 
 # SNS settings
 RSS: false
